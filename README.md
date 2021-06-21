@@ -1,4 +1,4 @@
-# react-native-send-intent
+# react-native-send-intent-custom
 
 React Native Android module to use Android's Intent actions for send text to shareable apps or make phone calls or opening third party apps.
 
@@ -14,7 +14,7 @@ E.g.: You have and short text and want to share in a SMS or Whatsapp.
 ### Installation
 
 ```bash
-npm install react-native-send-intent --save
+npm install react-native-send-intent-custom --save
 ```
 
 ### Add it to your android project
